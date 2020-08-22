@@ -1,0 +1,10 @@
+[package]
+name = "triamond"
+version = "0.0.1"
+authors = ["outfrost <kotlet.bahn@gmail.com>"]
+edition = "2018"
+description = "Experimental game"
+license = "MIT"
+
+[dependencies]
+amethyst = { version = "0.15.1", features = ["vulkan"] }
