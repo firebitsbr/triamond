@@ -1,0 +1,4 @@
+(
+    title: "Triamond",
+    dimensions: Some((1280, 720)),
+)
